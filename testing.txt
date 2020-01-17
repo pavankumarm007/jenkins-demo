@@ -1,2 +1,3 @@
 vghdgfhjhcnbvbfting
 bfbf
+this should automatically poll scm and build in Jenkins
